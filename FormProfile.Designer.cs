@@ -1,4 +1,4 @@
-﻿namespace OsuOverlay
+﻿namespace KeystrokeCounter
 {
     partial class FormProfile
     {
