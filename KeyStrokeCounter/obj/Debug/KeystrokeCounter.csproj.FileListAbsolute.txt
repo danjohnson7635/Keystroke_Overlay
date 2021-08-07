@@ -23,3 +23,11 @@ C:\Users\mcche\Desktop\C# practice\Key Count tracker (GitHub)\KeyStrokeCounter\o
 C:\Users\mcche\Desktop\C# practice\Key Count tracker (GitHub)\KeyStrokeCounter\obj\Debug\KeystrokeCounter.pdb
 C:\Users\mcche\Desktop\C# practice\Key Count tracker (GitHub)\obj\Debug\KeystrokeCounter.Form2.resources
 C:\Users\mcche\Desktop\C# practice\Key Count tracker (GitHub)\obj\Debug\KeystrokeCounter.FormProfile.resources
+C:\Users\mcche\Desktop\C# practice\Key Count tracker (GitHub)\KeyStrokeCounter\bin\Debug\KeystrokeCounter.exe.config
+C:\Users\mcche\Desktop\C# practice\Key Count tracker (GitHub)\KeyStrokeCounter\bin\Debug\KeystrokeCounter.exe
+C:\Users\mcche\Desktop\C# practice\Key Count tracker (GitHub)\KeyStrokeCounter\bin\Debug\KeystrokeCounter.pdb
+C:\Users\mcche\Desktop\C# practice\Key Count tracker (GitHub)\KeyStrokeCounter\bin\Debug\Gma.System.MouseKeyHook.dll
+C:\Users\mcche\Desktop\C# practice\Key Count tracker (GitHub)\KeyStrokeCounter\bin\Debug\KeyMouseHook.dll
+C:\Users\mcche\Desktop\C# practice\Key Count tracker (GitHub)\KeyStrokeCounter\bin\Debug\WindowsInput.dll
+C:\Users\mcche\Desktop\C# practice\Key Count tracker (GitHub)\KeyStrokeCounter\bin\Debug\WindowsInput.xml
+C:\Users\mcche\Desktop\C# practice\Key Count tracker (GitHub)\KeyStrokeCounter\obj\Debug\KeystrokeCounter.csproj.CopyComplete
