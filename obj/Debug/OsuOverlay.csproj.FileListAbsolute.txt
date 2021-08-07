@@ -1,0 +1,17 @@
+C:\Users\mcche\Desktop\C# practice\OsuOverlay\bin\Debug\OsuOverlay.exe.config
+C:\Users\mcche\Desktop\C# practice\OsuOverlay\bin\Debug\OsuOverlay.exe
+C:\Users\mcche\Desktop\C# practice\OsuOverlay\bin\Debug\OsuOverlay.pdb
+C:\Users\mcche\Desktop\C# practice\OsuOverlay\obj\Debug\OsuOverlay.Form1.resources
+C:\Users\mcche\Desktop\C# practice\OsuOverlay\obj\Debug\OsuOverlay.Properties.Resources.resources
+C:\Users\mcche\Desktop\C# practice\OsuOverlay\obj\Debug\OsuOverlay.csproj.GenerateResource.cache
+C:\Users\mcche\Desktop\C# practice\OsuOverlay\obj\Debug\OsuOverlay.csproj.CoreCompileInputs.cache
+C:\Users\mcche\Desktop\C# practice\OsuOverlay\obj\Debug\OsuOverlay.exe
+C:\Users\mcche\Desktop\C# practice\OsuOverlay\obj\Debug\OsuOverlay.pdb
+C:\Users\mcche\Desktop\C# practice\OsuOverlay\bin\Debug\Gma.System.MouseKeyHook.dll
+C:\Users\mcche\Desktop\C# practice\OsuOverlay\bin\Debug\KeyMouseHook.dll
+C:\Users\mcche\Desktop\C# practice\OsuOverlay\bin\Debug\WindowsInput.dll
+C:\Users\mcche\Desktop\C# practice\OsuOverlay\bin\Debug\WindowsInput.xml
+C:\Users\mcche\Desktop\C# practice\OsuOverlay\obj\Debug\OsuOverlay.csproj.CopyComplete
+C:\Users\mcche\Desktop\C# practice\OsuOverlay\obj\Debug\OsuOverlay.csprojAssemblyReference.cache
+C:\Users\mcche\Desktop\C# practice\OsuOverlay\obj\Debug\OsuOverlay.Form2.resources
+C:\Users\mcche\Desktop\C# practice\OsuOverlay\obj\Debug\OsuOverlay.FormProfile.resources

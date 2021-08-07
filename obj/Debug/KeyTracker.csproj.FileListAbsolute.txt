@@ -1,0 +1,17 @@
+C:\Users\mcche\Desktop\C# practice\Key Count tracker (GitHub)\obj\Debug\OsuOverlay.Form1.resources
+C:\Users\mcche\Desktop\C# practice\Key Count tracker (GitHub)\obj\Debug\OsuOverlay.Form2.resources
+C:\Users\mcche\Desktop\C# practice\Key Count tracker (GitHub)\obj\Debug\OsuOverlay.FormProfile.resources
+C:\Users\mcche\Desktop\C# practice\Key Count tracker (GitHub)\obj\Debug\KeyTracker.Properties.Resources.resources
+C:\Users\mcche\Desktop\C# practice\Key Count tracker (GitHub)\obj\Debug\KeyTracker.csproj.GenerateResource.cache
+C:\Users\mcche\Desktop\C# practice\Key Count tracker (GitHub)\obj\Debug\KeyTracker.csproj.CoreCompileInputs.cache
+C:\Users\mcche\Desktop\C# practice\Key Count tracker (GitHub)\obj\Debug\KeyTracker.csprojAssemblyReference.cache
+C:\Users\mcche\Desktop\C# practice\Key Count tracker (GitHub)\bin\Debug\KeyTracker.exe.config
+C:\Users\mcche\Desktop\C# practice\Key Count tracker (GitHub)\bin\Debug\KeyTracker.exe
+C:\Users\mcche\Desktop\C# practice\Key Count tracker (GitHub)\bin\Debug\KeyTracker.pdb
+C:\Users\mcche\Desktop\C# practice\Key Count tracker (GitHub)\bin\Debug\Gma.System.MouseKeyHook.dll
+C:\Users\mcche\Desktop\C# practice\Key Count tracker (GitHub)\bin\Debug\KeyMouseHook.dll
+C:\Users\mcche\Desktop\C# practice\Key Count tracker (GitHub)\bin\Debug\WindowsInput.dll
+C:\Users\mcche\Desktop\C# practice\Key Count tracker (GitHub)\bin\Debug\WindowsInput.xml
+C:\Users\mcche\Desktop\C# practice\Key Count tracker (GitHub)\obj\Debug\KeyTracker.csproj.CopyComplete
+C:\Users\mcche\Desktop\C# practice\Key Count tracker (GitHub)\obj\Debug\KeyTracker.exe
+C:\Users\mcche\Desktop\C# practice\Key Count tracker (GitHub)\obj\Debug\KeyTracker.pdb
